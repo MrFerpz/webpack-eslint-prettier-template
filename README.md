@@ -1,2 +1,2 @@
-Fred's project starter-kit
-Use npm-check-updates to make sure dependencies are all up to date
+Project starter kit including Webpack, Prettier and ESLint__
+Still use npm-check-updates to make sure dependencies are all up to date
